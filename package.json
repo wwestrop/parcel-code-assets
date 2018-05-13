@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "parcel build index.html --target electron --public-url ./"
+  },
+  "devDependencies": {
+    "parcel": "1.8.0"
+  }
+}
